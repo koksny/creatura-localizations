@@ -9,6 +9,6 @@ If You wish to help with translating Creatura to language You know - please down
 
 List of Alpha-2 ISO-3166 country codes can be found on:
 
-    https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 
 All new branches updates will be reviewed and merged to master branch if accepted. Please leave a comment in the translated file, with name to add into credits.

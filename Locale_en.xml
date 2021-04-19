@@ -2076,7 +2076,7 @@
         "CAT_StoredStepName": "Pick pollen from flower",
         "CAT_StoredDialogues": [
             "R/15/1/DE/0@See the flower nodes? Just select one of them, and use the pollination brush to pick the pollen from one of our nightshades.",
-            "R/15/0/DE/0@[Right Mouse Button] on the plant flower node and select Pollinate, or [Left Mouse Button] while holding [Shift] to pick pollen."
+            "R/15/0/DE/0@[Right Mouse Button] on the plant flower node and select Pollinate, or [Left Mouse Button] while holding [Alt] and [Shift] to pick pollen."
         ]
     },
     "_TUTORIAL_ADVANCED2_T20": {
@@ -2084,7 +2084,7 @@
         "CAT_StoredDialogues": [
             "R/15/1/DE/1@With pollen on a brush, you need to insert the brush into another specimen flower, so it leaves the genetic material that we've just picked up.",
             "R/15/1/DE/0@After pollination, the descendants have a chance of expressing genes inherited from cross pollination. It is a cheap and predictable mutagen.",
-            "R/15/0/DE/0@[Right Mouse Button] on the plant flower node and select Pollinate, or [Left Mouse Button] while holding [Shift] to apply pollen."
+            "R/15/0/DE/0@[Right Mouse Button] on the plant flower node and select Pollinate, or [Left Mouse Button] while holding [Alt] and [Shift] to apply pollen."
         ]
     },
     "_TUTORIAL_ADVANCED2_T21": {

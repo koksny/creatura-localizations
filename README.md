@@ -33,4 +33,9 @@ Please commit localization file name format according to below template:
 List of Alpha-2 ISO-3166 country codes can be found on:
 https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 
+If game crashes on startup with localization, use validator.
+Localization file formatting is very important, and any missing character can break the loading of JSON format. Since the file has thousands of lines, manual searching for errors can be very troublesome. To avoid that, please use any available online JSON validator tools, for example https://jsonformatter.org/ .
+
+To use a validator, please paste the content of the localization file to it, and select "Validate". If any problems are detected, the validation tool will return a list of lines with problems.
+
 All new branches updates will be reviewed and merged to master branch if accepted. Please leave a comment in the translated file, with name to add into credits.
